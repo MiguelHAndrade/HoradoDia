@@ -6,7 +6,7 @@ function carregar() {
     var min = data.getMinutes()
     var seg = data.getSeconds()
     var msg2 = document.getElementById('msg2')
-    // var hora = 9
+    // var hora = B
 
     msg.innerHTML = `Agora são ${hora} horas, ${min} minutos e ${seg} seg.`
 

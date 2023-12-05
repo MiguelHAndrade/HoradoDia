@@ -27,6 +27,10 @@ div{
     justify-content: center;
 }
 
+#imagem{
+    max-width: 40vw;
+}
+
 .mrg{
     margin-top: 10%;
 }
